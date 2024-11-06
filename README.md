@@ -1,2 +1,2 @@
 # Arabic_OCR
-Third Year Projetc at University of ******
+Third Year Project at University of ******
